@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ai+BL2uFva0RJTTAno68pAVEjB+aUQOsanojdwLELFbgdZ09hU9PLgr3MKDghF1fSm7Ouag+by4nHLo/LmAg4w==",
+  "success": true,
+  "projectFilePath": "D:\\LearnSTL\\FixtureProject\\FixtureProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jack\\.nuget\\packages\\entityframework\\6.4.0\\entityframework.6.4.0.nupkg.sha512",
+    "C:\\Users\\Jack\\.nuget\\packages\\jetentityframeworkprovider\\6.1.4\\jetentityframeworkprovider.6.1.4.nupkg.sha512",
+    "C:\\Users\\Jack\\.nuget\\packages\\sunnyui\\3.0.8\\sunnyui.3.0.8.nupkg.sha512",
+    "C:\\Users\\Jack\\.nuget\\packages\\sunnyui.common\\3.0.8\\sunnyui.common.3.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
