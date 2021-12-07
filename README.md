@@ -6,9 +6,11 @@
 - Add SunnyUI     
 
 #### Migrations
+
+- Create database.accdb in your bin\Debug or bin\Release 
 - Open PM,  Enable-Migrations 
 - Add-Migration youname
 - Update-Migration
 
 #### Run
- - Create database.accdb in your bin\Debug or bin\Release 
+
